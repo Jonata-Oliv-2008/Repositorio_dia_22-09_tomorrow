@@ -14,7 +14,9 @@ Repositório para atividade do curso do tomorrow.
 ​O projeto foi construído usando as seguintes tecnologias fundamentais do desenvolvimento web:
 
   - ​HTML: Estrutura e marcação do conteúdo da página.
+    
   ​- CSS: Estilização e layout para uma interface visualmente agradável.
+  
   ​- JavaScript: Lógica de programação para realizar o cálculo e interagir com os elementos da página.
 
 3. ​Como Usar:
